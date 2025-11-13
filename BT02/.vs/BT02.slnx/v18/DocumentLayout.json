@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BTH3\\BT02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{851B0E18-2797-003E-250E-16B7035D3984}|BT02\\BT02.csproj|c:\\bth3\\bt02\\bt02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851B0E18-2797-003E-250E-16B7035D3984}|BT02\\BT02.csproj|solutionrelative:bt02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B0E18-2797-003E-250E-16B7035D3984}|BT02\\BT02.csproj|c:\\bth3\\bt02\\bt02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{851B0E18-2797-003E-250E-16B7035D3984}|BT02\\BT02.csproj|solutionrelative:bt02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\BTH3\\BT02\\BT02\\Form1.cs",
+              "RelativeDocumentMoniker": "BT02\\Form1.cs",
+              "ToolTip": "C:\\BTH3\\BT02\\BT02\\Form1.cs",
+              "RelativeToolTip": "BT02\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:13:20.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BTH3\\BT02\\BT02\\Form1.cs",
+              "RelativeDocumentMoniker": "BT02\\Form1.cs",
+              "ToolTip": "C:\\BTH3\\BT02\\BT02\\Form1.cs [Design]",
+              "RelativeToolTip": "BT02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:41:14.176Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

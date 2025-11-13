@@ -1,0 +1,16 @@
+C:\BTH3\BT04\BT04\bin\Debug\net10.0-windows\BT04.exe
+C:\BTH3\BT04\BT04\bin\Debug\net10.0-windows\BT04.deps.json
+C:\BTH3\BT04\BT04\bin\Debug\net10.0-windows\BT04.runtimeconfig.json
+C:\BTH3\BT04\BT04\bin\Debug\net10.0-windows\BT04.dll
+C:\BTH3\BT04\BT04\bin\Debug\net10.0-windows\BT04.pdb
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.Form1.resources
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.csproj.GenerateResource.cache
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.AssemblyInfoInputs.cache
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.AssemblyInfo.cs
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.csproj.CoreCompileInputs.cache
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.dll
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\refint\BT04.dll
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.pdb
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\BT04.genruntimeconfig.cache
+C:\BTH3\BT04\BT04\obj\Debug\net10.0-windows\ref\BT04.dll

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BTH3\\BT06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A68F78A2-D11C-5810-8567-F5E17B2D7476}|BT06\\BT06.csproj|c:\\bth3\\bt06\\bt06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68F78A2-D11C-5810-8567-F5E17B2D7476}|BT06\\BT06.csproj|solutionrelative:bt06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68F78A2-D11C-5810-8567-F5E17B2D7476}|BT06\\BT06.csproj|c:\\bth3\\bt06\\bt06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A68F78A2-D11C-5810-8567-F5E17B2D7476}|BT06\\BT06.csproj|solutionrelative:bt06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F29325-2C2F-4305-BE8A-38ACC5778826}|BT06\\BT06.csproj|C:\\BTH3\\BT06\\bt06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87F29325-2C2F-4305-BE8A-38ACC5778826}|BT06\\BT06.csproj|solutionrelative:bt06\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68F78A2-D11C-5810-8567-F5E17B2D7476}|BT06\\BT06.csproj|c:\\bth3\\bt06\\bt06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68F78A2-D11C-5810-8567-F5E17B2D7476}|BT06\\BT06.csproj|solutionrelative:bt06\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\BTH3\\BT06\\BT06\\Form1.cs",
+              "RelativeDocumentMoniker": "BT06\\Form1.cs",
+              "ToolTip": "C:\\BTH3\\BT06\\BT06\\Form1.cs",
+              "RelativeToolTip": "BT06\\Form1.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAALIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:04:51.743Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BTH3\\BT06\\BT06\\Form1.cs",
+              "RelativeDocumentMoniker": "BT06\\Form1.cs",
+              "ToolTip": "C:\\BTH3\\BT06\\BT06\\Form1.cs [Design]",
+              "RelativeToolTip": "BT06\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:13:28.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BTH3\\BT06\\BT06\\Form1.cs",
+              "RelativeDocumentMoniker": "BT06\\Form1.cs",
+              "ToolTip": "C:\\BTH3\\BT06\\BT06\\Form1.cs [Design]",
+              "RelativeToolTip": "BT06\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:02:36.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\BTH3\\BT06\\BT06\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BT06\\Form1.Designer.cs",
+              "ToolTip": "C:\\BTH3\\BT06\\BT06\\Form1.Designer.cs",
+              "RelativeToolTip": "BT06\\Form1.Designer.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAewPQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:02:28.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BTH3\\BT04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{343515AE-B6E0-FAAD-0443-080F2386BEF6}|BT04\\BT04.csproj|C:\\BTH3\\BT04\\bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{343515AE-B6E0-FAAD-0443-080F2386BEF6}|BT04\\BT04.csproj|solutionrelative:bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77301E03-0FAE-46F2-AB73-15C6DDF94AAD}|BT04\\BT04.csproj|C:\\BTH3\\BT04\\bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77301E03-0FAE-46F2-AB73-15C6DDF94AAD}|BT04\\BT04.csproj|solutionrelative:bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\Downloads\\BTH3 (1)\\BTH3\\04\\04\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343515AE-B6E0-FAAD-0443-080F2386BEF6}|BT04\\BT04.csproj|c:\\bth3\\bt04\\bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343515AE-B6E0-FAAD-0443-080F2386BEF6}|BT04\\BT04.csproj|solutionrelative:bt04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\BTH3\\BT04\\BT04\\Form1.cs",
+              "RelativeDocumentMoniker": "BT04\\Form1.cs",
+              "ToolTip": "C:\\BTH3\\BT04\\BT04\\Form1.cs",
+              "RelativeToolTip": "BT04\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:15:18.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BTH3\\BT04\\BT04\\Form1.cs",
+              "RelativeDocumentMoniker": "BT04\\Form1.cs",
+              "ToolTip": "C:\\BTH3\\BT04\\BT04\\Form1.cs [Design]",
+              "RelativeToolTip": "BT04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:22:43.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\BTH3 (1)\\BTH3\\04\\04\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\HOME\\Downloads\\BTH3 (1)\\BTH3\\04\\04\\MainForm.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\BTH3 (1)\\BTH3\\04\\04\\MainForm.cs",
+              "RelativeToolTip": "..\\..\\Users\\HOME\\Downloads\\BTH3 (1)\\BTH3\\04\\04\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:18:58.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BTH3\\BT04\\BT04\\Form1.cs",
+              "RelativeDocumentMoniker": "BT04\\Form1.cs",
+              "ToolTip": "C:\\BTH3\\BT04\\BT04\\Form1.cs [Design]",
+              "RelativeToolTip": "BT04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T10:14:06.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
